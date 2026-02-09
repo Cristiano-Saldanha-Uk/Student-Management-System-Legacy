@@ -1,5 +1,5 @@
 # 🎓 Student Management System (High School Final Project)
-# Graded 100/100
+## Graded 98% - A*
 
 This repository contains a **Python-based student management system** developed as my **high school final project**.  
 It is preserved to demonstrate my **early experience with GUI applications, databases, and full CRUD systems**.
@@ -59,32 +59,6 @@ The application connects to a MySQL database containing a `details` table with f
 - Section
 
 > Note: Database credentials are hard-coded as this was an educational project.
-
----
-
-## ⚠️ Important Notes
-
-- This project was built in an academic context and lacks modern best practices such as:
-  - Environment variable usage
-  - Secure authentication
-  - Separation of concerns (MVC)
-  - Input validation
-- Credentials are hard-coded and **should not be used in production systems**
-- The code is intentionally left mostly unchanged to preserve its educational value
-
----
-
-## 📈 Why This Repository Exists
-
-This project is included to:
-- Showcase my **early exposure to full-stack desktop applications**
-- Demonstrate experience with **GUIs and relational databases**
-- Highlight my **growth as a developer** over time
-
-For examples of my **current work**, please see:
-- 🔹 [Scalping Trading Bot](https://github.com/Cristiano-Saldanha-Uk/Scalping-Trading-Bot)
-- 🔹 [Hand Gesture Arduino Control](#)
-- 🔹 [Personal Website](https://github.com/Cristiano-Saldanha-Uk/Cristiano-website)
 
 ---
 
